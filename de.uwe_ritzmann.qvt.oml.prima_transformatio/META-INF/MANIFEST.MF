@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Prima_transformatio Plug-in
+Bundle-SymbolicName: de.uwe_ritzmann.qvt.oml.prima_transformatio
+Bundle-Version: 1.0.0
+Bundle-Vendor: Uwe Ritzmann
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.m2m.qvt.oml
