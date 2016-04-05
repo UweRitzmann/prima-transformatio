@@ -1,0 +1,8 @@
+modeltype WSDL uses 'http://www.eclipse.org/wsdl/2003/WSDL';
+modeltype ECORE uses 'http://www.eclipse.org/emf/2002/Ecore';
+
+transformation SecundaTransformatio(in source : WSDL, out target : ECORE);
+
+main() {
+
+}
